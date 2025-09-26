@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.12",
+    "lucide-react": "^0.539.0",
+    "tailwindcss": "^4.1.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.1"
+  }
+}
