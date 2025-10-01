@@ -5,6 +5,7 @@
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
+    "@playwright/test": "^1.55.1",
     "@vitejs/plugin-react": "^5.0.1"
   }
 }
